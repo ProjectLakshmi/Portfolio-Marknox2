@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the weather of different cities and countries by entering their locations.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Employee management System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project used to store the details of all employees in a company",
+    "skills": ["React", "SweetAlert 2", "Node", "Primitive UI"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "University ERP",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project which contains all the information of a University like events,exams,teachers,etc..",
+    "skills": ["React", "Express", "Node","Mongo db"],
+    "demo": "https://www.example.com"
+   
+  }
+]
